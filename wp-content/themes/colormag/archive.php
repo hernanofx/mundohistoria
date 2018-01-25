@@ -6,8 +6,9 @@
  * @subpackage ColorMag
  * @since ColorMag 1.0
  */
+?>
 
-get_header(); ?>
+<?php get_header(); ?>
 
 	<?php do_action( 'colormag_before_body_content' ); ?>
 
